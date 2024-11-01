@@ -12,7 +12,11 @@ In CR WSC-M (*generated_modify_tq.csv*), the *text* is the original question. Th
 
 ### Code
 
-We will release the code before 11.3.
+In code folder, we have the code to construct the dataset and the code to evaluate different methods.
+
+In *wsc_get_more.ipynb*, we get more questions to construct the dataset.
+
+In *Model_wsc_H.ipynb* and *Model_wsc_M.ipynb*, we evaluate the performance of different methods on the CR WSC-H and CR WSC-M.
 
 ### Citation
 
